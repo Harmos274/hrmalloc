@@ -1,6 +1,6 @@
 # hrmalloc
 
-![(https://fr.wikipedia.org/wiki/Malloc)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/1024px-Heckert_GNU_white.svg.png)
+![(https://fr.wikipedia.org/wiki/Malloc)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/128px-Heckert_GNU_white.svg.png)
 
 My malloc implementation for a school project.
 
